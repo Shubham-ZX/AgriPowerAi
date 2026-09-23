@@ -41,8 +41,3 @@ A secure, restricted dashboard for system administrators featuring:
 * **AI/ML**: Computer Vision Model (TensorFlow/PyTorch)
 
 
-
-
-
-   git clone [https://github.com/yourusername/AgriPower-AI.git](https://github.com/yourusername/AgriPower-AI.git)
-   cd AgriPower-AI
