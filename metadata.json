@@ -1,0 +1,6 @@
+{
+  "name": "AgriPower.AI - Precision Agro-Intelligence",
+  "description": "The agronomist in your pocket. Diagnose leaf spots, soil deficiency, and pests from a single photo with organic low-cost remedies and field telemetry.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
